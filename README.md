@@ -11,4 +11,4 @@ Data Visualization: • Tableau • Pandas • Matplotlib
 
 Web Development: • MongoDB • Express • Node.js • React • HTML • CSS • Bootstrap 4
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhhoang0319)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhhoangt)](https://github.com/anuraghazra/github-readme-stats)
